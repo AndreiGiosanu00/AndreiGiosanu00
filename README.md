@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AndreiGiosanu00 (Andrei Giosanu)
 - 👀 I’m interested in Software Development & Entrepreneurship 💻 + 📱 + 👔 + 💵 = ⭐
-- 🌱 I’m currently learning Flutter 🤩 🚀 
-- 💞️ I’m looking to collaborate on future projects 🤙
-- 📫 How to reach me: andreigiosanu0@gmail.com
+- 🌱 I just started a startup called Systemio Technologies 🤩 🚀 
+- 💞️ I’m looking to collaborate on future projects. 🤙
+- 📫 How to reach me: andrei.giosanu@systemiotech.com
 - 🔥 Twitter: https://twitter.com/AGiosanu
 
 <!---
